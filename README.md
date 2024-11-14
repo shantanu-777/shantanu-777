@@ -1,27 +1,116 @@
-# 💫 About Me:
-<br>Shantanu Modhave<br>Student at VIT, Bhopal | SDE | Aspiring Data Analyst |<br>Hi! I'm Shantanu Modhave, a dynamic Computer Science student passionate about web development, data analysis, and machine learning. Currently exploring tech's latest trends and constantly seeking innovative solutions. Let's connect and dive into the evolving tech world together!<br><br><br><br><br><br>
+<h1 align="center">👋 Hello, I'm Shantanu Modhave</h1>
+<h3 align="center">Aspiring Full Stack Developer & Machine Learning Enthusiast from Pune, India</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shantanu.modhave) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shantanu-modhave-/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shantanu_7777) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=plastic&logo=blazor&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=plastic&logo=solid&logoColor=c8c9cb) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=plastic&logo=apachekafka&logoColor=white&color=%23231F20) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=plastic&logo=azuredevops&logoColor=white&color=%230078D7) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=plastic&logo=Prezi&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shantanu-777&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shantanu-777&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu-777&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shantanu-777&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shantanu-777&limit=5&theme=chalk&combine_all_yearly_contributions=true)
+<p align="center">
+    <a href="https://www.linkedin.com/in/shantanumodhave/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://shantanumodhave.netlify.app/">
+        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=About.me&logoColor=white"/>
+    </a>
+    <a href="mailto:shantanumodhave@gmail.com">
+        <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=Gmail&logoColor=white"/>
+    </a>
+    <a href="https://shantanumodhave7.medium.com/">
+        <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=flat&logo=medium&logoColor=white"/>
+    </a>
+    <a href="https://github.com/shantanu-777">
+        <img src="https://img.shields.io/github/followers/shantanu-777?style=social"/>
+    </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shantanu-777&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 **Final-year** Computer Science student at **VIT Bhopal**.
+- 💻 Full Stack Developer with a deep passion for **MERN Stack** and **Machine Learning**.
+- 🌱 Currently exploring **DevOps** and **Site Reliability Engineering (SRE)** to expand my skill set.
+- 🛠️ Working on various open-source projects leveraging **AI and Deep Learning** techniques.
+- 🖋️ Passionate about writing technical articles and sharing knowledge on **Medium**.
+- 🌐 Check out my portfolio: [shantanumodhave.netlify.app](https://shantanumodhave.netlify.app/)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+
+### DevOps & Cloud
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+## 📚 Featured Projects
+
+### 🌐 [Warden Alert App](https://github.com/shantanu-777/WardenAlertApp)
+IoT-based alert system for campus safety using Flask and Raspberry Pi.
+
+### 🏥 [Health Oracle](https://github.com/shantanu-777/Health-Oracle-)
+A healthcare prediction system utilizing machine learning for disease diagnosis.
+
+### 📊 [Sentimental Analysis - IBM](https://github.com/shantanu-777/Sentimental-Analysis-IBM)
+Performing sentiment analysis on customer feedback using IBM Cloud NLP.
+
+### 📈 [Reddit Pipeline](https://github.com/shantanu-777/Reddit-PipeLine)
+Data pipeline to extract and analyze posts and comments from Reddit.
+
+### 💰 [PayPulse](https://github.com/shantanu-777/PayPulse)
+Financial sentiment analysis on digital payment reviews using NLP techniques.
+
+### 🍽️ [Foodie Hunter](https://github.com/shantanu-777/Foodie-Hunter--project)
+Restaurant discovery platform using MERN stack for food enthusiasts.
+
+### 🕵️‍♂️ [Deepfake Detection](https://github.com/shantanu-777/Deepfake-Detection)
+A deep learning project for detecting AI-generated deepfake videos.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=shantanu-777&show_icons=true&theme=radical" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu-777&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## ✍️ Blog Posts
+
+- 📝 [Understanding HashMap vs Two-Pointer Approaches](https://shantanumodhave7.medium.com/)
+- 💡 [Optimizing ML Pipelines for Real-Time Analysis](https://shantanumodhave7.medium.com/)
+- 📊 [Exploring AI Ethics in Deep Learning](https://shantanumodhave7.medium.com/)
+
+Explore more: [Medium Blog](https://shantanumodhave7.medium.com/)
+
+---
+
+## 🤝 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shantanumodhave/)
+- 🌐 [Portfolio](https://shantanumodhave.netlify.app/)
+- ✉️ [Email](mailto:shantanumodhave@gmail.com)
+
+---
+
+## 🎯 Future Goals
+
+- 💻 Dive deeper into **DevOps** and **Site Reliability Engineering (SRE)** for scalable application deployments.
+- 🌐 Build advanced **AI-driven solutions** for business automation.
+- 🔍 Contribute to open-source projects related to **MERN Stack** and **ML frameworks**.
+- 🚀 Secure a position as a **Full Stack Developer** or **SRE Engineer** post-graduation.
+
+---
+
+**Thank you for visiting my GitHub profile! If you find my work interesting, feel free to ⭐ my repositories. Let's collaborate and innovate together!** 🚀
+```
+
