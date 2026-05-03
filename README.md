@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Shantanu Modhave</h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist | AI Systems Builder</h3>
+<h3 align="center">Machine Learning | Data Science | AI Systems </h3>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/shantanumodhave/">
@@ -23,6 +23,7 @@
 
 ## 🚀 About Me
 
+- 🧑🏽‍🎓 Studying MS Data Science at **Technicshe Universität Dortmund**
 - 🎓 Graudated **Computer Science Engineering** from **VIT Bhopal**
 - 🤖 Focused on **Machine Learning Engineering, Data Science, and AI systems**
 - 🧠 Interested in **end-to-end ML pipelines** (data → model → API → monitoring)
@@ -111,7 +112,6 @@ Deep learning system to detect AI-generated media
 
 ## 🎯 Career Direction
 
-- 🎓 Incoming Master’s student (Germany – Data Science / AI)
 - 💼 Target roles:
   - Machine Learning Engineer
   - Data Scientist
@@ -126,7 +126,3 @@ Deep learning system to detect AI-generated media
 - Portfolio: https://shantanumodhave.netlify.app/
 - Email: shantanumodhave@gmail.com
 
----
-
-⭐ **This GitHub reflects real, end-to-end ML projects — not toy demos.  
-Happy to discuss any repository in depth.**
